@@ -4,12 +4,13 @@
 #Kelas : TI.20.D4
 
 1. Pemanggilan Melalui CMD Dekripsi
-<img src="cmdenkripsi.png: img>
+cmddeskripsi.png
+<img src="cmddeskripsi.png"img>
 2. Pemanggilan Melalui CMD Enkripsi
-<img src="cmdenkripsi.png: img>
+<img src="cmdenkripsi.png"img>
 3. Plaintext
-<img src="plaintext.png: img>
+<img src="plaintext.png"img>
 4. Hasil Dekripsi
-<img src="dekripsi.png: img>
+<img src="dekripsi.png"img>
 5. Hasil Enkripsi
-<img src="enkripsi.png: img>
+<img src="enkripsi.png"img>
