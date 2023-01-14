@@ -11,6 +11,6 @@
 3. Plaintext
 <img src="plaintext.png" img>
 4. Hasil Dekripsi
-<img src="dekrip.png" img>
+<img src="deskrip.png" img>
 5. Hasil Enkripsi
 <img src="enkripsi.png" img>
